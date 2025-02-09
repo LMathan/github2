@@ -1,0 +1,134 @@
+body{
+    margin: 0px;
+}
+#main{
+    width: 100vW;
+    height: 100vh;
+    position: relative;
+}
+#main_imag{
+    width: 100%;
+    height: 100%;
+    
+}
+#sub1{
+    position: absolute;
+    top: 0px;
+}
+#sub1_imag{
+    width: 200px;
+}
+#sub2{
+    position: absolute;
+    top: 90px;
+    width: 94vw;
+    left: 3vw;
+    height: 60vh;
+    border: 3px white solid;
+    border-radius: 20px;
+}
+#sub2 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    border: 3px white solid;
+    filter: brightness(30%);
+}
+#sub3{
+    width: 90vw;
+    left: 5vw;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    position: absolute;
+    top: 100px;   
+}
+#sub4_1{
+    position: absolute;
+    top: 400px;
+    left: 300px;
+    height: 200px;
+    width: 150px;
+    margin-right: 100px;
+    border: 3px white solid;
+    border-radius: 10px;
+}
+#sub4_2{
+        position: absolute;
+        top: 400px;
+        left: 500px;
+        width: 150px;
+        height: 200px;
+        border: 3px white solid;
+        border-radius: 10px;
+    
+}
+#sub4_3{
+    position: absolute;
+    top: 400px;
+    left: 700px;
+    width: 150px;
+    height: 200px;
+    border: 3px white solid;
+    border-radius: 10px;
+
+}
+#sub4_4{
+    position: absolute;
+    top: 400px;
+    left: 900px;
+    width: 150px;
+    height: 200px;
+    border: 3px white solid;
+    border-radius: 10px;
+}
+#sub4_5{
+    position: absolute;
+    top: 400px;
+    left: 1100px;
+    width: 150px;
+    height: 200px;
+    border: 3px white solid;
+    border-radius: 10px;
+}
+#sub5 input{
+    position: absolute;
+    top: 640px;
+    left: 40%;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    background: none;
+    border: 3px white solid;
+    color: white;
+}
+
+#sub6 button{
+    position: absolute;
+    top: 640px;
+    left: 55%;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    background: red;
+    color: white;
+    border: 3px white solid;
+
+}
+#sub7{
+    position: absolute;
+    top: 20px;
+    right: 100px;
+}
+#sub7 select{
+    background: none;
+    color: white;
+    border: 3px white solid;
+    border-radius: 10px;
+}
+#sub7 button{
+    background-color: red;
+    border: 3px white solid;
+    border-radius: 10px;
+    color: white;
+}
